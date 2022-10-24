@@ -1,6 +1,6 @@
 {
   "name": "Oliver",
   "task": [
-    "0 30 11 * * https://raw.githubusercontent.com/OliverYuGit/QuantumultX/main/scripts/flow.js, tag=机场流量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true",
+    "0 30 11 * * ? https://raw.githubusercontent.com/OliverYuGit/QuantumultX/main/scripts/flow.js, tag=机场流量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true",
   ]
 }
