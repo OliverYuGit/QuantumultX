@@ -1,6 +1,6 @@
 {
   "id": "oliver.app.sub",
-  "name": "Oliver 应用订阅",
+  "name": "Oliver Yu 应用订阅",
   "author": "@Oliver",
   "icon": "https://avatars2.githubusercontent.com/u/21050064?s=460&u=40a74913dd0a3d00670d05148c3a08c787470021&v=4",
   "repo": "https://github.com/OliverYuGit/QuantumultX",
@@ -28,7 +28,7 @@
         "https://raw.githubusercontent.com/58xinian/icon/master/flow_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/flow.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js"
-    },
+      "script": "https://raw.githubusercontent.com/OliverYuGit/QuantumultX/main/scripts/flow.js?token=GHSAT0AAAAAABUVY2DV3BI6CRJVTIUMFHISY2WAMSA"
+    }
   ]
 }
