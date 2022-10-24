@@ -1,11 +1,10 @@
 /**
  * 本脚本旨在获取机场流量使用详情, 链接需支持Quantumult 显示流量使用情况
  * 原作者 @Meeta
- * @author: Peng-YM
+ * @author: Oliver
  * 修改增加多机场信息显示，以及支持多平台，图标。优化通知显示。
  * 更新地址：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js
  * 推荐使用mini图标组：https://github.com/Orz-3/mini
- * @update YangZhaocool
  */
 
 let subscriptions = [{
