@@ -59,8 +59,7 @@ async function fetchInfo(sub) {
         $.write(dnow, KEY_o_now);
         const title = `${sub.name}订阅明细`;
         const subtitle = '';
-        const details = `
-剩余流量:${(residue_m / 1024).toFixed(2)}G; 单日使用流量：${todayflow.toFixed(2)}M; 总上传: ${(upload_k / 1073741824).toFixed(2)}G; 总下载: ${(download_k / 1073741824).toFixed(2)}G; 到期时间: ${expires}`;
+        const details = `剩余流量:${(residue_m / 1024).toFixed(2)}G; 单日使用流量：${todayflow.toFixed(2)}M; 总上传: ${(upload_k / 1073741824).toFixed(2)}G; 总下载: ${(download_k / 1073741824).toFixed(2)}G; 到期时间: ${expires}`;
 
         if (sub.icon) {
             $.notify(title, subtitle, details, {
