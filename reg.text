@@ -12,8 +12,8 @@
 
 ^https?:\/\/.+?
 \.
-(my10api|(.*91.*))
+(myb6api|(.*91.*))
 \.
-(com|tips|app|xyz)
+(com|tips|app|xyz|org)
 (:\d{2,5}|)
-\/api.php$
+\/pwa.php$
